@@ -2,7 +2,6 @@ import requests
 import time
 import json
 
-
 numer = 1000000000
 x = 1
 
